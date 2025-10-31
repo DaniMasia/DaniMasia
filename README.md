@@ -2,7 +2,7 @@
 
 ### Desarrollador FrontEnd & Apasionado por la Tecnología
 
-![Banner](https://github.com/DaniMasia/DaniMasia/blob/main/banner.png) <!-- reemplaza este enlace por tu banner -->
+![Banner](https://img.freepik.com/fotos-premium/digitaltechnisches-futuristisches-banner-mit-schaltkreisleitungen_327072-24715.jpg)
 
 ---
 
@@ -34,22 +34,21 @@ Me especializo en el **desarrollo FrontEnd**, para construir soluciones eficient
 
 ## 💼 Mis áreas de enfoque
 - Desarrollo **FrontEnd** con tecnologías modernas  
-- Diseño **frontend responsive y optimizado**  
+- Diseño **FrontEnd responsive y optimizado**  
 - Uso de **Git y GitHub** para control de versiones y colaboración  
 - Mejora continua, buenas prácticas y trabajo en equipo  
 
 ---
 
 ## 📊 Estadísticas de GitHub
-![Dani Masia GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniMasia&show_icons=true&theme=react&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniMasia&layout=compact&theme=react&hide_border=true)
 
 ---
 
 ## 🔗 Enlaces Relevantes
 🌍 **GitHub:** [github.com/DaniMasia](https://github.com/DaniMasia)  
-💼 **LinkedIn:** [linkedin.com/in/DaniMasia](#) <!-- añade tu link real -->
-📧 **Email:** exrelez@example.com <!-- añade tu email real -->
+💼 **LinkedIn:** [linkedin.com/in/DaniMasia](#) 
+📧 **Email:** dartt444@gmail.com 
 
 ---
 
