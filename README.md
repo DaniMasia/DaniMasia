@@ -2,7 +2,9 @@
 
 ### Desarrollador FrontEnd & Apasionado por la Tecnología
 
-![Banner](https://img.freepik.com/fotos-premium/digitaltechnisches-futuristisches-banner-mit-schaltkreisleitungen_327072-24715.jpg)
+<div align="center">
+  <img src="https://img.freepik.com/fotos-premium/digitaltechnisches-futuristisches-banner-mit-schaltkreisleitungen_327072-24715.jpg" alt="Banner" width="800"/>
+</div>
 
 ---
 
