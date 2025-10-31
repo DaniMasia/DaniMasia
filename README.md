@@ -1,4 +1,4 @@
-# 👋 Hola, mi nombre es Dani Masia 🇪🇸
+# 🔥 Hola, mi nombre es Dani Masia
 
 ### Desarrollador FrontEnd & Apasionado por la Tecnología
 
