@@ -48,8 +48,8 @@ Me especializo en el **desarrollo FrontEnd**, para construir soluciones eficient
 ---
 
 ## 🔗 Enlaces Relevantes
-🌍 **GitHub:** [github.com/DaniMasia](https://github.com/DaniMasia)  
-💼 **LinkedIn:** [linkedin.com/in/DaniMasia](#) 
+🌍 **GitHub:** [[github.com/DaniMasia](https://github.com/DaniMasia?tab=repositories)]
+💼 **LinkedIn:** [[linkedin.com/in/DaniMasia](https://www.linkedin.com/in/daniel-masia-herrero/)](#) 
 📧 **Email:** dartt444@gmail.com 
 
 ---
